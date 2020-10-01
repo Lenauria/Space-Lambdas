@@ -1,6 +1,6 @@
-# hsproject
+# Space-Lambdas
 
-Zur Ausführung des Programms wird stack benötigt (da das „haskell-stack“-Paket aus Debian für unser Projekt zu alt ist, empfehlen wir auch hier die Installation über die Website).
+Zur Ausführung des Programms wird Stack benötigt.
 https://docs.haskellstack.org/en/stable/README/
 
 Ausführung unseres Projekts:
